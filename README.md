@@ -7,7 +7,7 @@
 **Institute:** MIET (Autonomous), Jammu  
 **GitHub Repository:** Offensive-and-defensive-security-COM-502-
 
-This repository contains the laboratory work for **COM-502: Offensive and Defensive Security Lab** and is maintained by **4316 sushil39**.
+This repository contains the laboratory work for **COM-502: Offensive and Defensive Security Lab** and is maintained by **4316 Taha Khursheed**
 
 ## Experiments
 
