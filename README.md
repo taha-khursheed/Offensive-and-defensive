@@ -1,6 +1,6 @@
 # Offensive and Defensive Security Lab
 
-**Contributor:** 4316 sushil39  
+**Contributor:** 4316 Taha Khursheed
 **Course Code:** COM-502  
 **Course:** Offensive and Defensive Security Lab  
 **Program:** B.Tech CSE (Cyber Security)  
